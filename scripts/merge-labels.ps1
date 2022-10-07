@@ -3,7 +3,7 @@ param(
 	$outDir = "build",
 	$paperWidth = 210,
 	$paperHeight = 297,
-	$margin = 20,
+	$margin = 15,
 	$dpi = 300
 )
 	

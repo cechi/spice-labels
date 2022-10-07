@@ -1,6 +1,6 @@
 $dpi = 300;
 $labelWidth = 35;
-$labelHeight = 25;
+$labelHeight = 35;
 $fontName = "Tycho'sRecipe";
 $fontSize = 12;
 $lang = "cs";
