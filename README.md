@@ -1,4 +1,4 @@
-Scripts for generating spice labels.
+Scripts for generating printable spice labels.
 
 # Scripts
 
