@@ -13,5 +13,10 @@ Merge them into printable pages:
 ./scripts/merge-labels.ps1
 ```
 
+Merge into single pdf file:
+```powershell
+./scripts/merge-pages.ps1
+```
+
 # Example output
 ![Omegagrid](./build/page-2.png)
