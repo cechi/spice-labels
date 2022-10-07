@@ -19,4 +19,4 @@ Merge into single pdf file:
 ```
 
 # Example output
-![Omegagrid](./build/page-2.png)
+![Omegagrid](./sample.png)
