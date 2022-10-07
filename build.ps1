@@ -8,3 +8,4 @@ $lang = "cs";
 
 ./scripts/create-labels.ps1 -dpi $dpi -labelWidth $labelWidth -labelHeight $labelHeight -fontName $fontName -fontSize $fontSize -lang $lang
 ./scripts/merge-labels.ps1 -dpi $dpi
+./scripts/merge-pages.ps1
